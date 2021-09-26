@@ -50,7 +50,10 @@ The Goal:
 - The algorithm prints out the number of the counterfeit coin, and how many steps it takes to find it.
 
 
-### Please leave a comment with any question, problem, idea, or anything else. I'd love to hear those!
+### Please leave a comment with any question, problem, or idea you might have - I'd love to hear those!
+
+
+** Gur Shulman | Sep 2021
 
 <!---
 GuiShulman/GuiShulman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
