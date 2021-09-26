@@ -53,7 +53,7 @@ The Goal:
 ### Please leave a comment with any question, problem, or idea you might have - I'd love to hear those!
 
 
-** Gur Shulman | Sep 2021 **
+**Gur Shulman | Sep 2021**
 
 <!---
 GuiShulman/GuiShulman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
