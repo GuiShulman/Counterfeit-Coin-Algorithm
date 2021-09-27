@@ -74,7 +74,7 @@ def weigh(group_1, group_2, group_3):
 		print("               ||               ")
 		print("             ======        ",leftout)
 		group_name = "RIGHT"
-		print(f"Chose {group_name} group.")
+		print(f"Chose {group_name} group for next step.")
 		print("\n")
 		return "1"
 	elif weight_1 < weight_2:
@@ -85,7 +85,7 @@ def weigh(group_1, group_2, group_3):
 		print("               ||               ")
 		print("             ======        ",leftout)
 		group_name = "LEFT"
-		print(f"Chose {group_name} group.")
+		print(f"Chose {group_name} group for next step.")
 		print("\n")
 		return "2"
 	else:
